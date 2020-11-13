@@ -9,7 +9,7 @@ Inspired by the idea of the separation of modes that Bret Victor talked about, i
 
 Consequently, it would make sense to separate these two modes not only timely but also physically by device.  
 
-Therefore the use case scenario for this software system is that the actual writing happens on a desktop/laptop device and the proofreading on a touch device.  
+Therefore the use case scenario for this software system is that the actual writing happens on a desktop/laptop computer and the proofreading on a mobile touch device.  
 
 ##### Definition
 
