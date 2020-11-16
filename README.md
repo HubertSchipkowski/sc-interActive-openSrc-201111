@@ -3,13 +3,23 @@
 
 ##### Analysis
 
- ###### Separation of Modes when Creating Texts
+###### The Problem of Operational Blindness in Text Creation Processes
 
-Inspired by the idea of the separation of modes that Bret Victor talked about, i.a. here: https://www.youtube.com/watch?v=agOdP2Bmieg and based on personal experience, a text creation process functions best when one separates the mode of creating texts from the mode of proofreading them.  
+Diving deep into organizing ideas and thoughts can be a rabbit hole in which one quickly loses any ability to get a big picture of one is working on and where gaps and flaws of new thought structures lie.
 
-Consequently, it would make sense to separate these two modes not only timely but also physically by device.  
+ ###### One Solution: The Separation of Modes
 
-Therefore the use case scenario for this software system is that the actual writing happens on a desktop/laptop computer and the proofreading on a mobile touch device.  
+The old solution of waiting to get a fresh eye works, but that consumes time.
+
+The premise is that it isn't always necessary to sleep overnight to get a more accurate picture of one's work.
+Instead, often it could be enough to put oneself in the recipient's situation just by sharing her reading environment.
+
+This corresponds to the idea of the separation of modes that Bret Victor talked about, i.a. here: https://www.youtube.com/watch?v=agOdP2Bmieg.
+
+Consequently, it would make sense to separate the mode of creating and the mode of (proof-)reading physically by device.
+
+Therefore, the software system's use case scenario is that the writing happens on a desktop/laptop computer and the proofreading on a mobile touch device.  
+
 
 ##### Definition
 
