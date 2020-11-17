@@ -16,7 +16,7 @@ Instead, often it could be enough to put oneself in the recipient's situation ju
 
 This corresponds to the idea of the separation of modes that Bret Victor talked about, i.a. here: https://www.youtube.com/watch?v=agOdP2Bmieg.
 
-Consequently, it would make sense to separate the mode of creating and the mode of (proof-)reading physically by device.
+Consequently, it could make sense to separate the mode of creating and the mode of (proof-)reading physically by device.
 
 Therefore, the software system's use case scenario is that the writing happens on a desktop/laptop computer and the proofreading on a mobile touch device.  
 
@@ -35,7 +35,7 @@ To build such a system seems to be of great use.
     - Basic Document Management
     - Basic Text Editor
     - Distraction-free write mode
-    - Display and edit comments on text passages made in the reader app  
+    - Display and edit comments on text passages marked in the reader app  
 
 2. Reader App
 
