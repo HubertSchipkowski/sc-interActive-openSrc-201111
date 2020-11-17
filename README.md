@@ -14,7 +14,7 @@ The standard solution of waiting to get a fresh eye works but consumes time.
 The premise is that it isn't always necessary to sleep overnight to get a more accurate picture of one's work.
 Instead, often it could be enough to put oneself in the recipient's situation just by sharing her reading environment.
 
-This corresponds to the idea of the separation of modes that Bret Victor talked about, i.a. here: https://www.youtube.com/watch?v=agOdP2Bmieg.
+This corresponds to the idea of the separation of modes Bret Victor talked about, i.a. here: https://www.youtube.com/watch?v=agOdP2Bmieg.
 
 Consequently, it could make sense to separate the mode of creating and the mode of (proof-)reading physically by device.
 
