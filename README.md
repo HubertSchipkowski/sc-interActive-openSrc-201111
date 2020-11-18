@@ -1,4 +1,4 @@
-# sc-interActive-openSrc-201111
+wd# sc-interActive-openSrc-201111
  This repository documents an open software development process from zero to basic prototype applying TDD.
 
 ##### Analysis
@@ -48,7 +48,8 @@ To build such a system seems to be of great use.
     - Mark text passages with slide gestures
     - Write comments on text passages
 
-(…)
+Persistent Storage: Database (Core Data framework)
+Synchronization: iCloud
 
 ##### Design
 
