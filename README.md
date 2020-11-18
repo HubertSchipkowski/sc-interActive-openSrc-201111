@@ -48,7 +48,8 @@ To build such a system seems to be of great use.
     - Mark text passages with slide gestures
     - Write comments on text passages
 
-Persistent Storage: Database (Core Data framework)
+Persistent Storage: Database (Core Data framework)  
+
 Synchronization: iCloud
 
 ##### Design
