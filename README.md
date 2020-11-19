@@ -1,4 +1,4 @@
-wd# sc-interActive-openSrc-201111
+# sc-interActive-openSrc-201111
 This repository documents an open software development process from zero to basic prototype applying TDD.
 Not strictly industry standard but rather casual. Intuitive and yet ordered.
 
