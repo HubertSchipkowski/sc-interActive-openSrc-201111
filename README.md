@@ -1,5 +1,7 @@
 wd# sc-interActive-openSrc-201111
- This repository documents an open software development process from zero to basic prototype applying TDD.
+This repository documents an open software development process from zero to basic prototype applying TDD.
+Not strictly industry standard but rather casual. Intuitive and yet ordered.
+
 
 ##### Analysis
 
@@ -28,8 +30,6 @@ To build such a system seems to be of great use.
 
 1. Writer App
 
-- Platform: macOS  
-
 - Features:  
 
     - Basic Document Management
@@ -37,9 +37,12 @@ To build such a system seems to be of great use.
     - Distraction-free write mode
     - Display and edit comments on text passages marked in the reader app  
 
-2. Reader App
+- Platform: macOS
+- Programming language: Swift
+- UI framework: SwiftUI
 
-- Platform: iOS  
+
+2. Reader App
 
 - Features:  
 
@@ -48,9 +51,23 @@ To build such a system seems to be of great use.
     - Mark text passages with slide gestures
     - Write comments on text passages
 
-Persistent storage: Database (Core Data framework)  
+- Platform: iOS  
+- Programming language: Swift
+- UI framework: SwiftUI
 
-Synchronization: iCloud
+
+
+
+- Persistent Storage: Database (Core Data framework)
+- Synchronization: iCloud
+
+
+#### Data Model
+
+![Pic](DataModelDraft201119a.png?raw=true "DataModelDraft201119a")
+
+
+
 
 ##### Design
 
