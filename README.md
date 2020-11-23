@@ -59,7 +59,7 @@ To build such a system seems to be of great use.
 
 
 
-- Persistent Storage: Database (Core Data framework)
+- Persistent Storage: Database (Core Data framework) | Document based
 - Synchronization: iCloud
 
 
