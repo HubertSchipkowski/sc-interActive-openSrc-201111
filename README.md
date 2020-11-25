@@ -27,7 +27,7 @@ To build such a system seems to be of great use.
 
 ##### Definition
 
-#### A software system consisting of two applications
+###### A software system consisting of two applications
 
 1. Writer App
 
@@ -63,14 +63,14 @@ To build such a system seems to be of great use.
 - Synchronization: iCloud | Custom Server
 
 
-#### Use Cases
+###### Use Cases
 
 | Use Case       | Event          | Result         |
 | -------------- | -------------- | -------------- |
 | (...)          | (...)          | (...)          |
 
 
-#### Data Model
+###### Data Model
 
 ![Pic](DataModelDraft201120a.png?raw=true "DataModelDraft201120a")
 
